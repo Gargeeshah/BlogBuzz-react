@@ -1,5 +1,4 @@
-npm i bootstrap@5.3.2
-npm i react-icons --save
+This project utilizes several widely-used React hooks, including:
 
 useState
 useRef
