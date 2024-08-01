@@ -5,3 +5,8 @@ This project utilizes several widely-used React hooks, including:
 - `createContext`
 - `useContext`
 - `useReducer`
+
+Install  dependencies:
+
+``npm i``
+
